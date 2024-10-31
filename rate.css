@@ -1,0 +1,49 @@
+#site-ratting li {
+	display: inline;
+	float:left;
+	list-style-image: none;
+	padding: 2px;
+	margin-top: 2px;
+	margin-right: 3px;
+	margin-bottom: 2px;
+	margin-left: 3px;
+
+}
+
+#site-ratting {
+
+	text-align: center;
+	width: 450px;
+}
+
+.r-head {
+
+	font-size:14px;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#114ac9;
+	margin:0px;
+	padding:0px;
+}
+
+#site-ratting .rimage {
+	height: 70px;
+	border:none;
+}
+.r-text {
+	font-size:10px;
+	color:#111111;
+	
+}
+.rbutton {
+	border:1px solid ;
+	
+}
+.ricon {
+	
+	width:25px;
+	border:none;
+	margin-right:2px;
+	
+}
+.clear {clear:both}
+#rupdate {color:#CCCCCC;}
